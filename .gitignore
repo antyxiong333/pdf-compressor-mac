@@ -1,0 +1,9 @@
+# Build artifacts
+*.app/
+AppIcon.iconset/
+makeicon
+*.o
+.DS_Store
+
+# Release zips
+*.zip
