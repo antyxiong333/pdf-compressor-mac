@@ -40,7 +40,7 @@
 
 ### 方式一：直接下载（推荐给普通用户）
 
-1. 打开 [**Releases 页面**](../../releases/latest)，下载 `PDF.压缩.app.zip`。
+1. 打开 [**Releases 页面**](../../releases/latest)，下载 `PDF-Compressor-mac.zip`。
 2. 解压，把 **PDF 压缩.app** 拖进「应用程序」文件夹。
 3. **第一次打开**：右键点图标 → **打开** → 再点一次 **打开**。
    （因为是本地未签名 App，只需这样操作一次，之后可直接双击。）
